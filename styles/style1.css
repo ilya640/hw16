@@ -1,0 +1,140 @@
+body{
+    padding: 199px;
+}
+
+button{
+    margin: 30px;
+}
+
+.first-button{
+    width: 180px;
+    height: 50px;
+    font-size: 20px;
+    border-radius: 3px;
+    color: white;
+    background-color: rgb(12, 212, 145);
+    border-color: rgb(12, 212, 145);
+    box-shadow: none;
+}
+
+.first-button:hover{
+    background-color: rgb(7, 122, 84);
+    border-color: rgb(7, 122, 84);
+}
+
+.first-button:active{
+    background-color: rgb(3, 45, 28);
+    border-color: rgb(3, 45, 28);
+}
+
+
+.second-button{
+   
+    width: 180px;
+    height: 50px;
+    font-size: 20px;
+    border-radius: 8px;
+    color: white;
+    background-color: rgb(12, 212, 145);
+    border-color: rgb(12, 212, 145);
+    box-shadow: none;
+    box-shadow: 0px 0px 8px rgba(71, 224, 137, 0.7);
+}
+
+.second-button:hover{
+    background-color: rgb(7, 122, 84);
+    border-color: rgb(7, 122, 84);
+    transform: rotate(5deg);
+}
+
+.second-button:active{
+    background-color: rgb(3, 45, 28);
+    border-color: rgb(3, 45, 28);
+}
+
+
+
+
+
+.third-button{
+   
+    width: 180px;
+    height: 50px;
+    font-size: 20px;
+    border-radius: 8px 32px;
+    color: white;
+    background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,121,66,1) 0%, rgba(104,224,175,1) 55%, rgba(0,212,255,1) 91%);
+border: none;
+    box-shadow: 0px 0px 8px rgba(71, 224, 137, 0.7);
+}
+
+.third-button:hover{
+    background-color: rgb(7, 122, 84);
+    border-color: rgb(7, 122, 84);
+    transform: rotate(5deg);
+}
+
+.third-button:active{
+    background-color: rgb(3, 45, 28);
+    border-color: rgb(3, 45, 28);
+    transform: rotate(-30deg);
+}
+
+
+.forth-button{
+   
+    width: 180px;
+    height: 50px;
+    font-size: 20px;
+    border-radius: 8px;
+    color: white;
+    background-color: rgb(12, 212, 145);
+    border-color: rgb(12, 212, 145);
+    box-shadow: none;
+    box-shadow: 0px 0px 8px rgba(71, 224, 137, 0.7);
+}
+
+.forth-button:hover{
+    background-color: rgb(7, 122, 84);
+    border-color: rgb(7, 122, 84);
+    
+}
+
+.forth-button:active{
+    position: relative;
+    top: 10px;
+    left: 10px;
+    background-color: rgb(3, 45, 28);
+    border-color: rgb(3, 45, 28);
+}
+
+
+.fifth-button{
+   
+    width: 180px;
+    height: 50px;
+    font-size: 20px;
+    border-radius: 20px;
+    color: white;
+    background: rgb(9,121,66);
+background: linear-gradient(90deg, rgba(9,121,66,1) 0%, rgba(109,224,104,1) 33%, rgba(0,212,255,1) 93%);
+    border: none;
+    box-shadow: 0px 0px 8px rgba(71, 224, 137, 0.7);
+}
+
+.fifth-button:hover{
+    background-color: rgb(7, 122, 84);
+    border-color: rgb(7, 122, 84);
+    
+}
+
+.fifth-button:active{
+    position: relative;
+    top: 10px;
+    left: 10px;
+    background-color: rgb(3, 45, 28);
+    border-color: rgb(3, 45, 28);
+}
+
+
